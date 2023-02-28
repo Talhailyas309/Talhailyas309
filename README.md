@@ -88,19 +88,19 @@
 |      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  | Last Commit 🚩
 |-------------|-------------------|---|---| ----|
 | [**Github Repository**](https://github.com/Talhailyas309/Talhailyas309) | [![GitHub issues](https://img.shields.io/github/issues/Talhailyas309/Talhailyas309?color=green&logo=github&style=flat)](https://github.com/Talhailyas309/Talhailyas309/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/Talhailyas309/Talhailyas309?style=flat&logo=github)](https://github.com/Talhailyas309/Talhailyas309/pulls)  | [![GitHtiub PRs](https://img.shields.io/github/issues-pr-closed/Talhailyas309/Talhailyas309?style=flat&color=critical&logo=github)](https://github.com/Talhailyas309/transcript_summary/pulls?q=is%3Apr+is%3Aclosed)  |[![GitHub last commit](https://img.shields.io/github/last-commit/Talhailyas309/Talhailyas309?color=blue&logo=github&style=flat)](https://github.com/Talhailyas309/transcript_summary/commits/) |
-| [**Github Profile**](https://github.com/itxfida/itxfida) | [![GitHub issues](https://img.shields.io/github/issues/itxfida/itxfida?color=green&logo=github&style=flat)](https://github.com/itxfida/itxfida/pulls) | [![GitHub PRs](https://img.shields.io/github/issues-pr/itxfida/itxfida?style=flat&logo=github)](https://github.com/itxfida/itxfida/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/itxfida/itxfida?style=flat&color=critical&logo=github)](https://github.com/itxfida/itxfida/pulls?q=is%3Apr+is%3Aclosed)   |[![GitHub last commit](https://img.shields.io/github/last-commit/itxfida/itxfida?color=blue&logo=github&style=flat)](https://github.com/itxfida/itxfida/commits/) |
-| [**Leetcode Practice**](https://github.com/itxfida/Leetcode) | [![GitHub issues](https://img.shields.io/github/issues/itxfida/itxfida?color=green&logo=github&style=flat)](https://github.com/itxfida/Leetcode/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/itxfida/itxfida?style=flat&logo=github)](https://github.com/itxfida/Leetcode/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/itxfida/itxfida?style=flat&color=critical&logo=github)](https://github.com/itxfida/Leetcode/pulls?q=is%3Apr+is%3Aclosed)   |[![GitHub last commit](https://img.shields.io/github/last-commit/itxfida/itxfida?color=blue&logo=github&style=flat)](https://github.com/itxfida/Leetcode/commits/) |
+| [**Github Profile**](https://github.com/Talhailyas309/Talhailyas309) | [![GitHub issues](https://img.shields.io/github/issues/Talhailyas309/Talhailyas309?color=green&logo=github&style=flat)](https://github.com/Talhailyas309/Talhailyas309/pulls) | [![GitHub PRs](https://img.shields.io/github/issues-pr/Talhailyas309/Talhailyas309?style=flat&logo=github)](https://github.com/Talhailyas309/Talhailyas309/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/Talhailyas309/Talhailyas309?style=flat&color=critical&logo=github)](https://github.com/Talhailyas309/Talhailyas309/pulls?q=is%3Apr+is%3Aclosed)   |[![GitHub last commit](https://img.shields.io/github/last-commit/Talhailyas309/Talhailyas309?color=blue&logo=github&style=flat)](https://github.com/Talhailyas309/Talhailyas309/commits/) |
+| [**Leetcode Practice**](https://github.com/Talhailyas309/Leetcode) | [![GitHub issues](https://img.shields.io/github/issues/Talhailyas309/Talhailyas309?color=green&logo=github&style=flat)](https://github.com/Talhailyas309/Leetcode/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/Talhailyas309/Talhailyas309?style=flat&logo=github)](https://github.com/Talhailyas309/Leetcode/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/Talhailyas309/Talhailyas309?style=flat&color=critical&logo=github)](https://github.com/itxfida/Leetcode/pulls?q=is%3Apr+is%3Aclosed)   |[![GitHub last commit](https://img.shields.io/github/last-commit/Talhailyas309/Talhailyas309?color=blue&logo=github&style=flat)](https://github.com/Talhailyas309/Leetcode/commits/) |
 
 
  <h2>GitHub Analytics
  </h2>
 
 <p align="center">
-<a href="https://github.com/itxfida">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itxfida&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=itxfida&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/Talhailyas309">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Talhailyas309&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Talhailyas309&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=itxfida&show_icons=true&locale=en&layout=demo&theme=algolia" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Talhailyas309&show_icons=true&locale=en&layout=demo&theme=algolia" />
 </p>
 </p>
 <br>
@@ -116,23 +116,23 @@
 
 ## 🚀Github Metrics
 <p align="center">
-	<img width="625em" src="https://github.com/itxfida/itxfida/blob/main/github-metrics.svg" />
+	<img width="625em" src="https://github.com/Talhailyas309/Talhailyas309/blob/main/github-metrics.svg" />
 </p>
 <br>
 
 ## 🐛Github Magic Game
 <p align="center">
-  <img src="https://github.com/itxfida/itxfida/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/Talhailyas309/Talhailyas309/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 <br>
 <h2 >🏆 GitHub Profile Trophy</h2>
 <p>
-<a href="https://github.com/itxfida">
-  <img src="https://github-profile-trophy.vercel.app/?username=itxfida&theme=matrix&column=8&margin-w=15&margin-h=15"/>
+<a href="https://github.com/Talhailyas309">
+  <img src="https://github-profile-trophy.vercel.app/?username=Talhailyas309&theme=matrix&column=8&margin-w=15&margin-h=15"/>
 
 </a>
 </p>
 <p align="center"> 
   Views<br>
-  <img src="https://profile-counter.glitch.me/itxfida/count.svg" />
+  <img src="https://profile-counter.glitch.me/Talhailyas309/count.svg" />
 </p>
