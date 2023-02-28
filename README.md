@@ -1,9 +1,9 @@
 <body>
   <div align="center">
-    <h1> Hi there, I'm Fida Ullah👋<a href="#"></h1>
+    <h1> Hi there, I'm Talha Ilyas👋<a href="#"></h1>
   </div>
 <p align="center">
-<a href="https://github.com/itfida"><img src="https://readme-typing-svg.herokuapp.com?lines=A+Student;A+Learner;Frontend+Developer;Backend+Developer&center=true&width=500&height=50"></a>
+<a href="https://github.com/Talhailyas309"><img src="https://readme-typing-svg.herokuapp.com?lines=A+Student;A+Learner;Frontend+Developer;Backend+Developer&center=true&width=500&height=50"></a>
 	
 
  ## About Me
@@ -14,7 +14,7 @@
 - 🌱 I’m currently expanding my knowledge in Python.
 - 👯 I’m looking to collaborate with other content creators and developers.
 - 📢 Love to teach and inspire other students also.
-- 🥅 2022-23 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.
+- 🥅 2023-24 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.
 - 💎 If you are a Tech boy/girl let's get connected  
  
 
@@ -87,7 +87,7 @@
 
 |      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  | Last Commit 🚩
 |-------------|-------------------|---|---| ----|
-| [**Github Repository**](https://github.com/itxfida/itxfida) | [![GitHub issues](https://img.shields.io/github/issues/itxfida/itxfida?color=green&logo=github&style=flat)](https://github.com/itxfida/itxfida/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/itxfida/itxfida?style=flat&logo=github)](https://github.com/itxfida/itxfida/pulls)  | [![GitHtiub PRs](https://img.shields.io/github/issues-pr-closed/itxfida/itxfida?style=flat&color=critical&logo=github)](https://github.com/itxfida/transcript_summary/pulls?q=is%3Apr+is%3Aclosed)  |[![GitHub last commit](https://img.shields.io/github/last-commit/itxfida/itxfida?color=blue&logo=github&style=flat)](https://github.com/saadfareed/transcript_summary/commits/) |
+| [**Github Repository**](https://github.com/Talhailyas309/Talhailyas309) | [![GitHub issues](https://img.shields.io/github/issues/Talhailyas309/Talhailyas309?color=green&logo=github&style=flat)](https://github.com/Talhailyas309/Talhailyas309/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/Talhailyas309/Talhailyas309?style=flat&logo=github)](https://github.com/Talhailyas309/Talhailyas309/pulls)  | [![GitHtiub PRs](https://img.shields.io/github/issues-pr-closed/Talhailyas309/Talhailyas309?style=flat&color=critical&logo=github)](https://github.com/Talhailyas309/transcript_summary/pulls?q=is%3Apr+is%3Aclosed)  |[![GitHub last commit](https://img.shields.io/github/last-commit/Talhailyas309/Talhailyas309?color=blue&logo=github&style=flat)](https://github.com/Talhailyas309/transcript_summary/commits/) |
 | [**Github Profile**](https://github.com/itxfida/itxfida) | [![GitHub issues](https://img.shields.io/github/issues/itxfida/itxfida?color=green&logo=github&style=flat)](https://github.com/itxfida/itxfida/pulls) | [![GitHub PRs](https://img.shields.io/github/issues-pr/itxfida/itxfida?style=flat&logo=github)](https://github.com/itxfida/itxfida/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/itxfida/itxfida?style=flat&color=critical&logo=github)](https://github.com/itxfida/itxfida/pulls?q=is%3Apr+is%3Aclosed)   |[![GitHub last commit](https://img.shields.io/github/last-commit/itxfida/itxfida?color=blue&logo=github&style=flat)](https://github.com/itxfida/itxfida/commits/) |
 | [**Leetcode Practice**](https://github.com/itxfida/Leetcode) | [![GitHub issues](https://img.shields.io/github/issues/itxfida/itxfida?color=green&logo=github&style=flat)](https://github.com/itxfida/Leetcode/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/itxfida/itxfida?style=flat&logo=github)](https://github.com/itxfida/Leetcode/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/itxfida/itxfida?style=flat&color=critical&logo=github)](https://github.com/itxfida/Leetcode/pulls?q=is%3Apr+is%3Aclosed)   |[![GitHub last commit](https://img.shields.io/github/last-commit/itxfida/itxfida?color=blue&logo=github&style=flat)](https://github.com/itxfida/Leetcode/commits/) |
 
