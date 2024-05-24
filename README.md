@@ -3,7 +3,7 @@
     <h1> Hi there, I'm Talha Ilyas👋<a href="#"></h1>
   </div>
 <p align="center">
-<a href="https://github.com/Talhailyas309"><img src="https://readme-typing-svg.herokuapp.com?lines=A+Student;A+Learner;Frontend+Developer;Backend+Developer&center=true&width=500&height=50"></a>
+<a href="https://github.com/Talhailyas309"><img src="https://readme-typing-svg.herokuapp.com?lines=A+Student;A+Learner;Frontend+Developer;Backend+Developer;Flutter+Front-End+Developer&center=true&width=500&height=50"></a>
 	
 
  ## About Me
@@ -70,8 +70,18 @@
     <td align='center'>
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4tQ6ZxMVlObIH08ozYIuAgzbirwoLN5gPPcbd94BLkA72Bvv0gBXSxNrOCaNGHAaoG14&usqp=CAU" width="80">
     </td>
+    <td align='center'>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" width="80">
+    </td>
+    <td align='center'>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="80">
+    </td>
 </tr>
-    
+<tr>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="80">
+    </td>
+</tr>
 </table>
 </p>
 <p align="center">
@@ -87,7 +97,7 @@
 
 |      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  | Last Commit 🚩
 |-------------|-------------------|---|---| ----|
-| [**Github Repository**](https://github.com/Talhailyas309/Talhailyas309) | [![GitHub issues](https://img.shields.io/github/issues/Talhailyas309/Talhailyas309?color=green&logo=github&style=flat)](https://github.com/Talhailyas309/Talhailyas309/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/Talhailyas309/Talhailyas309?style=flat&logo=github)](https://github.com/Talhailyas309/Talhailyas309/pulls)  | [![GitHtiub PRs](https://img.shields.io/github/issues-pr-closed/Talhailyas309/Talhailyas309?style=flat&color=critical&logo=github)](https://github.com/Talhailyas309/transcript_summary/pulls?q=is%3Apr+is%3Aclosed)  |[![GitHub last commit](https://img.shields.io/github/last-commit/Talhailyas309/Talhailyas309?color=blue&logo=github&style=flat)](https://github.com/Talhailyas309/transcript_summary/commits/) |
+| [**Github Repository**](https://github.com/Talhailyas309/Talhailyas309) | [![GitHub issues](https://img.shields.io/github/issues/Talhailyas309/Talhailyas309?color=green&logo=github&style=flat)](https://github.com/Talhailyas309/Talhailyas309/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/Talhailyas309/Talhailyas309?style=flat&logo=github)](https://github.com/Talhailyas309/Talhailyas309/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/Talhailyas309/Talhailyas309?style=flat&color=critical&logo=github)](https://github.com/Talhailyas309/transcript_summary/pulls?q=is%3Apr+is%3Aclosed)  |[![GitHub last commit](https://img.shields.io/github/last-commit/Talhailyas309/Talhailyas309?color=blue&logo=github&style=flat)](https://github.com/Talhailyas309/transcript_summary/commits/) |
 | [**Github Profile**](https://github.com/Talhailyas309/Talhailyas309) | [![GitHub issues](https://img.shields.io/github/issues/Talhailyas309/Talhailyas309?color=green&logo=github&style=flat)](https://github.com/Talhailyas309/Talhailyas309/pulls) | [![GitHub PRs](https://img.shields.io/github/issues-pr/Talhailyas309/Talhailyas309?style=flat&logo=github)](https://github.com/Talhailyas309/Talhailyas309/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/Talhailyas309/Talhailyas309?style=flat&color=critical&logo=github)](https://github.com/Talhailyas309/Talhailyas309/pulls?q=is%3Apr+is%3Aclosed)   |[![GitHub last commit](https://img.shields.io/github/last-commit/Talhailyas309/Talhailyas309?color=blue&logo=github&style=flat)](https://github.com/Talhailyas309/Talhailyas309/commits/) |
 | [**Leetcode Practice**](https://github.com/Talhailyas309/Leetcode) | [![GitHub issues](https://img.shields.io/github/issues/Talhailyas309/Talhailyas309?color=green&logo=github&style=flat)](https://github.com/Talhailyas309/Leetcode/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/Talhailyas309/Talhailyas309?style=flat&logo=github)](https://github.com/Talhailyas309/Leetcode/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/Talhailyas309/Talhailyas309?style=flat&color=critical&logo=github)](https://github.com/itxfida/Leetcode/pulls?q=is%3Apr+is%3Aclosed)   |[![GitHub last commit](https://img.shields.io/github/last-commit/Talhailyas309/Talhailyas309?color=blue&logo=github&style=flat)](https://github.com/Talhailyas309/Leetcode/commits/) |
 
@@ -136,3 +146,4 @@
   Views<br>
   <img src="https://profile-counter.glitch.me/Talhailyas309/count.svg" />
 </p>
+</body>
