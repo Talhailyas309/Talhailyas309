@@ -3,7 +3,7 @@
     <h1> Hi there, I'm Talha Ilyas👋<a href="#"></h1>
   </div>
 <p align="center">
-<a href="https://github.com/Talhailyas309"><img src="https://readme-typing-svg.herokuapp.com?lines=A+Student;A+Learner;Frontend+Developer;Backend+Developer;Flutter+Front-End+Developer&center=true&width=500&height=50"></a>
+<a href="https://github.com/Talhailyas309"><img src="https://readme-typing-svg.herokuapp.com?lines=A+Student;A+Learner;Flutter+Front-End+Developer&center=true&width=500&height=60"></a>
 	
 
  ## About Me
